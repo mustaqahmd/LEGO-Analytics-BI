@@ -1,7 +1,7 @@
 # 🧩 LEGO Analytics Power BI Dashboard
 
 ## 📖 Project Overview
-This Power BI project explores **LEGO set data** to uncover insights about pricing, set size, and theme popularity across decades.  
+This Power BI project explores LEGO set datato uncover insights about pricing, set size, and theme popularity across decades.  
 The dashboard enables users to interactively analyze LEGO’s product evolution — from classic sets to modern licensed collections.
 
 ---
